@@ -1,0 +1,14 @@
+{
+  "name": "daily-market-report",
+  "version": "0.2.0",
+  "description": "암호화폐(Upbit)·한국·미국 시장 데이터를 병렬 수집하여 일 3회(06:30/13:00/21:00) 자동 보고서를 생성하고 카카오톡으로 발송합니다",
+  "author": {
+    "name": "소에노"
+  },
+  "keywords": [
+    "암호화폐", "비트코인", "이더리움", "리플", "샌드박스",
+    "증시", "주식", "보고서",
+    "Upbit", "한국경제", "Yahoo Finance", "investing.com",
+    "네이버", "카카오톡", "Claude Routines"
+  ]
+}
